@@ -2,6 +2,10 @@
 """
 
 
+MAX_INT32 = 2_147_483_647
+MIN_INT32 = -2_147_483_648
+
+
 class BadInt:
     """BadInt
     """
