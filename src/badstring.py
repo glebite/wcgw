@@ -1,4 +1,6 @@
 """badstring.py
+
+Experiments of odds and ends.
 """
 import string
 import random
